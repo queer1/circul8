@@ -1,1 +1,1 @@
-This is only useful i you have donated and have the full UI.
+This is only useful if you've donated and have the full UI.
