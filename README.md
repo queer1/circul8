@@ -1,4 +1,4 @@
-<a href="http://www.youtube.com/embed/wPK9hqkOXU0?rel=0&vq=large&color=red&autoplay=0&wmode=transparent&theme=light&showinfo=0" target="_blank">
+<a href="http://www.youtube.com/embed/wPK9hqkOXU0?rel=0&vq=large&color=red&autoplay=1&wmode=transparent&theme=light&showinfo=0" target="_blank">
 <img src="http://i48.tinypic.com/2s9p2bq.jpg" alt="Youtube tutorial" width="640" height="360" align="right" border="0" /></a>
 
 
