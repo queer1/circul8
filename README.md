@@ -1,7 +1,7 @@
-circul8
-=======
+circul8 is a free iPhone + iPad theme for both retina and non-retina devices.
 
-Free iPhone + iPad theme
+It's simplistic, colorful and highly usable.
 
+You can find more info on the theme at [andreaslarsen.dk/c8](http://andreaslarsen.dk/c8)
 
-Will move everything from google docs + skydrive over here.
+Please concult the [wiki](https://github.com/andreaslarsen/circul8/wiki) before requesting icons and adding issues.
