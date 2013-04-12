@@ -1,23 +1,27 @@
-Danish
+
+
+
+
+### Danish
 tday=new Array("Søndag","Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag");
 tmonth=new Array("Januar","Februar","Marts","April","Maj","Juni","Juli","August","September","Oktober","November","December");
 
-English
+### English
 tday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 tmonth=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
 
-French - Peter Fields
+### French - Peter Fields
 tday=new Array("Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi");
 tmonth=new Array("Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre");
 
-Dutch - nienque
+### Dutch - nienque
 tday=new Array("Zondag","Maandag","Dinsdag","Woensdag","Donderdag","Vrijdag","Zaterdag");
 tmonth=new Array("Januari","Februari","Maart","April","Mei","Juni","Juli","Augustus","September","Oktober","November","December");
 
-Italian - Frep
+### Italian - Frep
 tday=new Array("Domenica","Lunedi","Martedi","Mercoledi","Giovedi","Venerdi","Sabato");
 tmonth=new Array("Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre");
 
-German - Jonas Sikorsky
+### German - Jonas Sikorsky
 tday=new Array("Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag");
 tmonth=new Array("Januar","Februar","Maerz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember");
