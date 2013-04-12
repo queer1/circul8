@@ -1,6 +1,5 @@
 Attribution should be like this
 Circul8 theme is created by http://andreaslarsen.dk and released under http://creativecommons.org/licenses/by-nc-sa/3.0/
-Any distribution should allways include a copy of this original licens.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
 
