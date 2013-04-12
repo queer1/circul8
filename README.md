@@ -9,3 +9,5 @@ It's simplistic, colorful and highly usable.
 You can find more info on the theme at [andreaslarsen.dk/c8](http://andreaslarsen.dk/c8)
 
 Please read the [wiki](https://github.com/andreaslarsen/circul8/wiki) before requesting icons and adding issues.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cd0fbf4dfa98bbe80c9727fd8432277f "githalytics.com")](http://githalytics.com/andreaslarsen/circul8)
