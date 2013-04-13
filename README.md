@@ -8,6 +8,6 @@ Please start by looking at the [wiki](https://github.com/andreaslarsen/circul8/w
 
 ### Info
 
-More info, donation link and other stuff at [andreaslarsen.dk/c8](http://andreaslarsen.dk/c8)
+More info, donation link and other stuff at [andreaslarsen.dk/c8](http://andreaslarsen.dk/c8) and [andreaslarsen.dk/c8ui](http://andreaslarsen.dk/c8ui)
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cd0fbf4dfa98bbe80c9727fd8432277f "githalytics.com")](http://githalytics.com/andreaslarsen/circul8)
