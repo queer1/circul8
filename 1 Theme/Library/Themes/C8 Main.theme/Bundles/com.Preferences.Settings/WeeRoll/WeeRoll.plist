@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>icon</key>
+		<string>WeeRoll.png</string>
+		<key>label</key>
+		<string>WeeRoll</string>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Settings</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pathkiller.weeroll.prefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pathkiller.weeroll</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pathkiller.weeroll.prefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pathkiller.weeroll</string>
+			<key>key</key>
+			<string>random</string>
+			<key>label</key>
+			<string>Random Animation</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pathkiller.weeroll.prefs</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>1</string>
+			<key>defaults</key>
+			<string>com.pathkiller.weeroll</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>trans</string>
+			<key>label</key>
+			<string>Animation Type</string>
+			<key>validTitles</key>
+			<array>
+				<string>Window Switch</string>
+				<string>Pull Down</string>
+				<string>Spiral</string>
+				<string>Stomp</string>
+				<string>Squish</string>
+				<string>Inner Cube</string>
+				<string>Outer Cube</string>
+				<string>Minimize</string>
+				<string>Bounce</string>
+				<string>Width Stretch</string>
+				<string>Height Stretch</string>
+				<string>Zoom &amp; Fade</string>
+				<string>Squish Alt</string>
+				<string>Zoom Out</string>
+				<string>Diagnol Left</string>
+				<string>Diagonal Right</string>
+				<string>Grow</string>
+				<string>Window Switch Alt</string>
+				<string>Slide From Left</string>
+				<string>Slide From Right</string>
+				<string>Fade In</string>
+				<string>Showcase (Beta)</string>
+				<string>Split X-Axis</string>
+				<string>Split Y-Axis</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+				<string>7</string>
+				<string>8</string>
+				<string>9</string>
+				<string>10</string>
+				<string>11</string>
+				<string>12</string>
+				<string>13</string>
+				<string>15</string>
+				<string>19</string>
+				<string>16</string>
+				<string>17</string>
+				<string>18</string>
+				<string>20</string>
+				<string>21</string>
+				<string>22</string>
+				<string>24</string>
+				<string>28</string>
+				<string>29</string>
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pathkiller.weeroll.prefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pathkiller.weeroll</string>
+			<key>key</key>
+			<string>bounce</string>
+			<key>label</key>
+			<string>Bounce</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>1</integer>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Utilized where applicable.</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>1</integer>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Follow me on Twitter for more @PathKiller29</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>1</integer>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>WeeRoll ◎ 2012 PathKiller29.</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>WeeRoll</string>
+</dict>
+</plist>
