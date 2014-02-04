@@ -7,6 +7,8 @@ The **[wiki](https://github.com/andreaslarsen/circul8/wiki)** will answer many o
 
 **[Info](http://andreaslarsen.dk/c8)** - about this theme
 
-**[Full UI](http://andreaslarsen.dk/c8ui)** - donate to charity
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cd0fbf4dfa98bbe80c9727fd8432277f "githalytics.com")](http://githalytics.com/andreaslarsen/circul8)
+iOS 7 updates: 
+
+[MardokPL](http://www.reddit.com/user/MardokPL) alkaline + signal bar
+[Nienque](https://twitter.com/opdondertje) bouncy balls
